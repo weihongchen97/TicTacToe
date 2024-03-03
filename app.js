@@ -6,7 +6,15 @@
 //then the number combinations that will be considered a victory
 
 //Consider player 1 being X and player 2 being O
+//player logic
 
+
+
+
+//board logic
+
+
+//game logic
 const winningCombo = [
     [1, 2, 3],
     [4, 5, 6],
@@ -16,5 +24,4 @@ const winningCombo = [
     [3, 6, 9],
     [1, 5, 9],
     [3, 5, 7]
-];
-
+];test
